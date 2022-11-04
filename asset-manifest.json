@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/sell/static/js/app.fce3b08c.chunk.js",
+    "app.js.map": "/sell/static/js/app.fce3b08c.chunk.js.map",
+    "runtime~app.js": "/sell/static/js/runtime~app.09db0c96.js",
+    "runtime~app.js.map": "/sell/static/js/runtime~app.09db0c96.js.map",
+    "static/js/2.be220b33.chunk.js": "/sell/static/js/2.be220b33.chunk.js",
+    "static/js/2.be220b33.chunk.js.map": "/sell/static/js/2.be220b33.chunk.js.map",
+    "fonts/AntDesign.ttf": "/sell/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/sell/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/sell/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/sell/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/sell/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/sell/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/sell/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/sell/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/sell/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/sell/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/sell/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/sell/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/sell/favicon-16.png",
+    "favicon-32.png": "/sell/favicon-32.png",
+    "favicon.ico": "/sell/favicon.ico",
+    "index.html": "/sell/index.html",
+    "manifest.json": "/sell/manifest.json",
+    "serve.json": "/sell/serve.json",
+    "static/js/2.be220b33.chunk.js.LICENSE.txt": "/sell/static/js/2.be220b33.chunk.js.LICENSE.txt",
+    "static/media/adaptive-icon.png": "/sell/static/media/adaptive-icon.026903ef.png",
+    "static/media/favicon.png": "/sell/static/media/favicon.aab372b4.png",
+    "static/media/icon.png": "/sell/static/media/icon.026903ef.png",
+    "static/media/splash.png": "/sell/static/media/splash.d36b91f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.09db0c96.js",
+    "static/js/2.be220b33.chunk.js",
+    "static/js/app.fce3b08c.chunk.js"
+  ]
+}
